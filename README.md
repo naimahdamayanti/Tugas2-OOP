@@ -17,5 +17,6 @@
 </ol>
 
 <h2>ERD</h2>
-![Alt text](https://github.com/naimahdamayanti/Tugas2-OOP/blob/main/image/ERD.png)
+<p>![alt text](https://github.com/naimahdamayanti/Tugas2-OOP/blob/main/image/ERD.png)</p>
 <h2>Code</h2>
+

@@ -5,9 +5,9 @@
     // Mengimpor file navbar.php untuk menambahkan navigasi pada halaman
     require_once 'navbar.php';
     
-    // Mendefinisikan kelas Mahasiswa yang merupakan turunan dari kelas 'database'
-    class Mahasiswa extends database {
-        // Konstruktor untuk kelas Mahasiswa, memanggil konstruktor induk untuk inisialisasi koneksi database
+    // Mendefinisikan kelas Kaprodi yang merupakan turunan dari kelas 'database'
+    class Kaprodi extends database {
+        // Konstruktor untuk kelas Kaprodi, memanggil konstruktor induk untuk inisialisasi koneksi database
         public function __construct() {
             parent::__construct();  
         }
@@ -20,9 +20,9 @@
         }
     }
 
-    // Membuat objek dari kelas Mahasiswa untuk mengambil data dosen
-    $mahasiswa1 = new Mahasiswa();
-    $data = $mahasiswa1->tampil_data(); // Menyimpan data hasil query dalam variabel $data
+    // Membuat objek dari kelas Kaprodi untuk mengambil data dosen
+    $kaprodi1 = new Kaprodi();
+    $data = $kaprodi1->tampil_data(); // Menyimpan data hasil query dalam variabel $data
 ?>
 
 <!DOCTYPE html>

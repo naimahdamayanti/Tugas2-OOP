@@ -584,3 +584,9 @@
 </ol>
 
 <h2>Database</h2>
+<ol>
+  <li>Lecturer</li>
+![tbl_lecturer](https://github.com/user-attachments/assets/0182142e-39ee-4d78-9f3d-79cf46f51673)
+  <li>Classes</li>
+  ![tbl_classes](https://github.com/user-attachments/assets/62c9a79c-2893-4329-a986-3015621304c6)
+</ol>

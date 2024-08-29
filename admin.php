@@ -43,7 +43,7 @@
 
 <div class="container my-4">
     <!-- Tabel Data Dosen -->
-    <h2 class="mb-4 text-center">Data Dosen</h2>
+    <h2 class="mb-4 text-center">LECTURERS DATA</h2>
     <table class="table table-bordered table-striped table-hover shadow-sm">
         <thead class="table-primary">
             <tr>
@@ -86,7 +86,7 @@
 
 <div class="container my-4">
     <!-- Tabel Data Kelas -->
-    <h2 class="mb-4 text-center">Data Kelas</h2>
+    <h2 class="mb-4 text-center">CLASSES DATA</h2>
     <table class="table table-bordered table-striped table-hover shadow-sm">
         <thead class="table-primary">
             <tr>

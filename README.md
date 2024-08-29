@@ -17,7 +17,7 @@
 </ol>
 
 <h2>ERD</h2>
-![ERD](https://github.com/user-attachments/assets/06b93309-54dd-411b-9d1f-e340574ebdaf)
+![ERD](https://github.com/naimahdamayanti/Tugas2-OOP/blob/main/ERD.png?rawtrue)
 
 <h2>Code</h2>
 <ol>

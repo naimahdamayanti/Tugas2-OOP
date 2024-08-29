@@ -17,7 +17,7 @@
 </ol>
 
 <h2>ERD</h2>
-![ERD](https://github.com/naimahdamayanti/Tugas2-OOP/blob/main/ERD.png?rawtrue)
+![ERD](https://github.com/user-attachments/assets/5dc7c5dd-d736-4c43-8cd5-6deae7975ba4)
 
 <h2>Code</h2>
 <ol>
@@ -570,3 +570,17 @@
 ```
   </p>
 </ol>
+
+<h2>Output Kode</h2>
+<ol>
+  <li>Admin</li>
+  ![admin](https://github.com/user-attachments/assets/07a0ae56-0cc5-437d-a303-673c72515ca4)
+<li>Koordinator Program Studi</li>
+  ![kaprodi](https://github.com/user-attachments/assets/3858c19b-dc7a-43cb-b2f7-cac841fa6a13)
+<li>Lecturer</li>
+  ![lecturer](https://github.com/user-attachments/assets/ad572b5e-2205-4357-9870-60280697c2c9)
+  <li>Classes</li>
+  ![classes](https://github.com/user-attachments/assets/3d881e79-c749-4156-bc5b-3a531a30449d)
+</ol>
+
+<h2>Database</h2>
